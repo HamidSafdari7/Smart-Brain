@@ -1,11 +1,2 @@
-# SmartBrain - v1
-Final project for ZTM course
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
-
-You can grab Clarifai API key [here](https://www.clarifai.com/)
-
-*visist https://zerotomastery.io/ for more*
+# SmartBrain 
+![064](https://github.com/HamidSafdari7/Smart-Brain/assets/93097273/6f5e647e-7ab4-407f-a9d9-ce75f3bd280c)
